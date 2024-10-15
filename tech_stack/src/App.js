@@ -1,9 +1,7 @@
-
-
 function App() {
   return (
-    <div className="App">
-      <h1>Sumit</h1>
+    <div className="sumit">
+      <h1>sumit</h1>
     </div>
   );
 }
